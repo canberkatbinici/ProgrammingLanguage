@@ -1,0 +1,17 @@
+INT a;
+INT b;
+
+>>| this is first comment |>>
+>>> this is second comment
+WHILE a>b DO 
+   IF a%b=0 
+     PRINTLOG("b is the divisor of a");
+   ELSE 
+     PRINTLOG("b is not the divisor of a);
+WHILE a<b DO
+   IF b%a=0 
+     PRINTLOG("a is the divisor of b");
+   ELSE 
+     PRINTLOG("a is not the divisor of b);
+WHILE a=b DO
+   PRINTLOG("a and b are equal, so both of them are divisor of each other");
