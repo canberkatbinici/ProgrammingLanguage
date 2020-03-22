@@ -16,9 +16,9 @@ This is initially done for Programming Language homework in Akdeniz University C
 
 Our language is designed as  syntax of the algorithms in CAPSLOCK form. Our language is mainly under effect of Java language syntax.
 
-Syntax
+ # Syntax
 
-Blocks and Commands
+# Blocks and Commands
 
 
 < program >  ::= < stmt_list >
@@ -102,7 +102,7 @@ Blocks and Commands
 < assignment-statement > ::= < variable > = < expression > ;
 
 
-Expressions
+# Expressions
 
 
 < expression > ::= < assignment expression > 
@@ -145,7 +145,7 @@ Expressions
                       | ><
 
 
-Tokens
+# Tokens
 
 
 < letter > ::= "A" | "B" | "C" | "D" | "E" | "F" | "G" | "H" | "I" | "J" | "K" | "L" | "M" | "N" | "O" | "P" | "Q" | "R" | "S" | "T" | "U" | "V" | "W" | "X" | "Y" | "Z" | "a" | "b" | "c" | "d" | "e" | "f" | "g" | "h" | "i" | "j" | "k" | "l" | "m" | "n" | "o" | "p" | "q" | "r" | "s" | "t" | "u" | "v" | "w" | "x" | "y" | "z"
@@ -171,7 +171,7 @@ Tokens
 
 
 
-How to run ?
+# How to run ?
 
 Fist, to build project run "make" command.
 
