@@ -1,16 +1,20 @@
 # ProgrammingLanguage
 CSE PL Homework
 
-# The Programming Language “LEAF”
+# Programming Language “LEAF”
 
 Yaprak Bulut 20160808005		--	git -> ”yaprakbulut” 
 Canberk Atbinici 20160808016	--	git -> “canberkatbinici” 
+
+
 
 Our programming language named by "leaf" has name come from group members names. Leaf is in Turkish "Yaprak".
 
 This is initially done for Programming Language homework in Akdeniz University Computer Science Engineering program.
 
 Our language is designed as  syntax of the algorithms in CAPSLOCK form. Our language is mainly under effect of Java language syntax.
+
+Syntax
 
 Blocks and Commands
 <program>  ::= <stmt_list>
